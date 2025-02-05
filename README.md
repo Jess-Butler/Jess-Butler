@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning maths/further maths/computer science/physics alevels at pates grammer school
 - 💞️ I’m looking to collaborate on cs50x harvard course
 - 📫 How to reach me...
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/They
 - ⚡ Fun fact🧗‍♀️i like climbing and archery
 
 <!---
